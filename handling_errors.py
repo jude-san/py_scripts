@@ -11,3 +11,8 @@ while True:
         # break
     finally:
         print(f'Number entered is {x} !!!')
+
+
+# Accessing error using 'excwpt:'
+        # except ZeroDivisionError as e:
+            # print('"ZeroDivisionError occurred: {}".format(e)')
