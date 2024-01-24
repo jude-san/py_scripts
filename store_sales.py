@@ -13,7 +13,7 @@ The owner wants you to do some calculations on the data with these criteria's:
 
     -based on the new prices, which products are less than $ 30 
 
-    
+
 """
 
 
@@ -22,4 +22,6 @@ products = ["Sankofa Foods", "Jamestown Coffee", "Bioko Chocolate", "Blue Skies 
 prices = [30, 25, 40, 20, 20, 35, 45, 50, 35]
 
 last_week = [2, 3, 5, 8, 4, 4, 6, 2, 9]
+
+
 
